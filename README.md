@@ -14,5 +14,9 @@ A simple and efficient To-Do List application to manage your tasks effectively. 
 - **CSS**: Style and design for a better user experience.
 - **JavaScript**: Add interactivity to manage tasks dynamically.
 
+## 📷 Screenshot
+
+![To-Do List Screenshot](screenshot.png)  
+
 ## Contact
 For any queries or suggestions, feel free to contact me via [dakshlakhi01@gmail.com](mailto:dakshlakhi01@gmail.com).
